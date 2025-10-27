@@ -210,6 +210,8 @@ opacity:1;
 }
 pre:has(> code[data-highlighted="yes"].hljs):hover{max-height:1000vh}
 pre:has(> code[data-highlighted="yes"].hljs):hover::after{opacity:0;visibility:hidden}
+.comment-menu .menu-item.clicked{color:#5BC8E8 !important}
 .comment-menu .menu-item{color:#999 !important}
 .comment-menu .menu-item:hover{color:#0084ff !important}
 .post-content h2 {color:#0084ff !important}
+
