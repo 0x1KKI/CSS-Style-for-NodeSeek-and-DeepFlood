@@ -18,7 +18,7 @@ text-autospace:normal;
 .avatar-normal,.sorter,.btn{box-shadow:var(--s-c) !important;transition:all 0.3s ease-in-out}
 .avatar-normal:hover,.sorter:hover,.btn:hover{box-shadow:0 6px 18px #00000033,0 0 10px #8ab4f84d !important;transform:translateY(-2px)}
 .avatar-normal{border-radius:24px;height:48px;width:48px}
-.topic-carousel-panel{min-height:66px !important}
+.topic-carousel-panel,.topic-carousel-item{min-height:66px !important}
 
 ::-webkit-scrollbar{width:8px;height:0}
 ::-webkit-scrollbar-track{background-color:transparent}
