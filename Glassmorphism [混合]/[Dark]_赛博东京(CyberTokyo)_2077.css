@@ -230,4 +230,8 @@ opacity:0.8;
 transition:all 0.3s ease
 }
 .dark-layout #nsk-left-panel-container .category-list .current-category a,
-.dark-layout #nsk-left-panel-container .category-list a:hover{background:#D428A380;border-radius:2px}
+.dark-layout #nsk-left-panel-container .category-list a:hover{
+background-color:#0A0413 !important;
+border-color:#D428A3 !important;
+box-shadow:0 0 15px 0px #D428A3 !important;
+border-radius:2px}
